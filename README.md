@@ -45,4 +45,4 @@
 ### Построение диаграммы отношений
 
 
-![alt text](Entity Relationship Diagram.jpg "Entity Relationship Diagram")
+![alt](erd.jpg "Entity Relationship Diagram")
